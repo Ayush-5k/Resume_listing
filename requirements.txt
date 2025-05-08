@@ -1,4 +1,8 @@
 streamlit
 sentence-transformers
-numpy
+pdfplumber
+docx2txt
+scipy
 pandas
+xlsxwriter
+torch  
